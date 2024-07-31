@@ -19,7 +19,7 @@ Check out the live demo: [Three_T Demo](https://deeksha27deekshitha.github.io/Th
 
 ## How to Play
 
-1. Open the [Three_T Demo]([https://deeksha27deekshitha.github.io/Three_T/game_web/index.html]) in your browser.
+1. Open the [Three_T Demo](https://deeksha27deekshitha.github.io/Three_T/game_web/index.html) in your browser.
 2. Select Player V/s Player or V/s ai.
 3. If selected Player V/s Player then there is a toss to decide which player to play.
 4. Select 'X' or 'O' to start the game.

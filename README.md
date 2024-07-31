@@ -8,7 +8,7 @@ Three_T is a simple and interactive Tic-Tac-Toe game created using HTML, CSS, an
 
 ## Demo
 
-Check out the live demo: [Three_T Demo]([https://deeksha27deekshitha.github.io/Three_T/game_web/index.html])
+Check out the live demo: [Three_T Demo](https://deeksha27deekshitha.github.io/Three_T/game_web/index.html)
 
 ## Features
 
